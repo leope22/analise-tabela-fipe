@@ -28,7 +28,7 @@ O projeto foi estruturado seguindo um pipeline de dados padrão:
 O principal desafio encontrado foi o **volume de dados e a lentidão do processo de web scraping**. A extração de dados para um único mês de referência demorou cerca de 20 horas. Tentativas de otimizar o processo com paralelismo (`multithreading`) resultaram em bloqueios da API (erro 429).
 
 Para viabilizar o projeto, foi adotada uma abordagem híbrida:
-* **Carros:** Utilizamos um dataset já existente do [Kaggle](https://www.kaggle.com/) com dados dos anos de 2020 e 2021.
+* **Carros:** Utilizamos um dataset já existente do [Kaggle](https://www.kaggle.com/datasets/franckepeixoto/tabela-fipe) com dados dos anos de 2020 e 2021.
 * **Motos e Caminhões:** Utilizamos os dados parciais coletados pelo nosso script de scraping.
 
 ## 📂 Arquivos do Projeto
