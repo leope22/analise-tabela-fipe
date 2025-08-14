@@ -36,3 +36,8 @@ Para viabilizar o projeto, foi adotada uma abordagem híbrida:
 Os arquivos de suporte, como scripts de inserção, dados em CSV e o backup do banco de dados, estão disponíveis no seguinte repositório:
 
 * **[Tabela-Fipe-DW](https://github.com/BeatrizPat/Tabela-Fipe-DW)**
+
+### 👨‍💻 Autores
+
+* **Leonardo Pedro** - [GitHub](https://github.com/leope22)
+* **Beatriz Patricio** - [GitHub](https://github.com/BeatrizPat)
